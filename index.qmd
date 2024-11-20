@@ -1,0 +1,35 @@
+---
+title: "Looking for a thousand buddhas"
+listing:
+  id: listing-gallery
+  template: gallery.ejs
+  contents:
+    - images/*.jpg
+  sort-ui: false
+  filter-ui: false
+  categories: false
+format:
+    closeread-html:
+        cr-section:
+            layout: "overlay-center"
+---
+
+## Looking for a thousand buddhas
+
+::: {.fullwidth}
+![](images/thousand-buddhas-bw.jpg)
+
+Wat aanvankelijk een kort bezoek van een week zou zijn, werd een bedevaartstocht van drie weken langs de kloosters van Kathmandu, Lumbini en Mustang.
+
+:::
+
+::: {#listing-gallery}
+:::
+
+
+
+
+
+
+
+
